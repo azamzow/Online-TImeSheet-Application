@@ -6,3 +6,6 @@
 
 ### It also allows the managers to login and check on their employees timesheets. 
 ### If a new manager is hired, they can also create an account. But they will not be tied to a student until an administrator changes that.
+
+
+![alt text](https://github.com/azamzow/Online-TImeSheet-Application/blob/master/login.png)
