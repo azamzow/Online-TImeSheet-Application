@@ -1,4 +1,4 @@
-# Online-TImeSheet-Application
+# WorkingKats
 
 ### This is an application that is for Sam Houston State Students who work for SHSU. 
 ### It allows students to login and clock in/out. They can also view their managers contact information in case they need to contact them. 
