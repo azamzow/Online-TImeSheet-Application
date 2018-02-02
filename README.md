@@ -1,5 +1,5 @@
 ### WorkingKats 
-WorkingKats is an application that is designed for Sam Houston students, but it can be implemented in any workplace or school.
+WorkingKats is a online employee time clock system. It is designed for Sam Houston students, but it can be implemented in any workplace or school.
 
 ***
 ## Why WorkingKats?
