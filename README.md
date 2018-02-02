@@ -1,6 +1,5 @@
 ### WorkingKats 
 WorkingKats is an application that is designed for Sam Houston students, but it can be implemented in any workplace or school.
- They can also view their managers contact information in case they need to contact them. 
 
 ***
 ## Why WorkingKats?
