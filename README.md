@@ -12,17 +12,15 @@ WorkingKats is a online employee time clock system. It is designed for Sam Houst
 
 ### Workingkats will solve those problems!
 
-WorkingKats is an application built with Java, that utilizes an online employee/manager time clock system.  The main goal is to give the manager an accurate and powerfull system to track their employee hours and time schedule. 
+WorkingKats is an application built with Java, that utilizes an online employee/manager time clock system.  The main goal is to give the manager an accurate and powerfull system to track their employee hours and time schedule.
 
 If a student is new, and is looking for a job, then after they sign up, they can search for the departments they wish to work in, and contact that specific Manager. It also allows the managers to check on their employees timesheets and keep them accountable.
 
 If a new manager is hired, they can also create an account. But they will not be connected to a student until an administrator assigns them a department.
 
-[![alt text](https://github.com/azamzow/Online-TImeSheet-Application/raw/master/login.png)](https://github.com/azamzow/Online-TImeSheet-Application/blob/master/login.png)
+## [![alt text](https://github.com/azamzow/Online-TImeSheet-Application/raw/master/login.png)](https://github.com/azamzow/Online-TImeSheet-Application/blob/master/login.png)
 
-
-
-### Future Implementation:
+## 				Future Implementation:
 
 •  Implement a hash function into the password when saving to database
 
